@@ -73,9 +73,9 @@ Utilizando ferramentas como o **AWS Budgets** e o **AWS Cost Explorer**, foi des
 
 ---
 ## Integrantes do Grupo
-* <a href="[https://www.linkedin.com/in/lucasodrelkd/](https://www.linkedin.com/in/lucasodrelkd/)">Lucas Araujo Sodré</a>
-* <a href="[https://www.linkedin.com/in/demethrius-heitor](https://www.linkedin.com/in/demethrius-heitor)">Deméthrius Heitor Silva de Santana</a>
-* <a href="[https://www.linkedin.com/in/edmarfreitas/](https://www.linkedin.com/in/edmarfreitas/)">Edmar de Freitas Nascimento da Rocha Alves</a>
-* <a href="[https://www.linkedin.com/in/keilla-cristina-nascimento/](https://www.linkedin.com/in/keilla-cristina-nascimento/)">Keilla Cristina Nascimento Couto</a>
-* <a href="[https://www.linkedin.com/in/josimar-bitencourt-pereira/](https://www.linkedin.com/in/josimar-bitencourt-pereira/)">Josimar Bitencourt Pereira</a>
-* <a href="[https://www.linkedin.com/in/luiz-henrique-gomes-pozenatto/](https://www.linkedin.com/in/luiz-henrique-gomes-pozenatto/)">Luiz Henrique Gomes Pozenatto</a>
+* <a href="https://www.linkedin.com/in/lucasodrelkd/">Lucas Araujo Sodré</a>
+* <a href="https://www.linkedin.com/in/demethrius-heitor">Deméthrius Heitor Silva de Santana</a>
+* <a href="https://www.linkedin.com/in/edmarfreitas/">Edmar de Freitas Nascimento da Rocha Alves</a>
+* <a href="https://www.linkedin.com/in/keilla-cristina-nascimento/">Keilla Cristina Nascimento Couto</a>
+* <a href="https://www.linkedin.com/in/josimar-bitencourt-pereira/">Josimar Bitencourt Pereira</a>
+* <a href="https://www.linkedin.com/in/luiz-henrique-gomes-pozenatto/">Luiz Henrique Gomes Pozenatto</a>
